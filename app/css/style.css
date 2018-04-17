@@ -6,6 +6,9 @@ body {
     font-family: 'Roboto';
     background: #fff;
     overflow-x: hidden;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
 }
 
 html {
